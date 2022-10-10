@@ -176,6 +176,9 @@ hr{
     .options{
         font-size: 12px;
     }
+    .forgot-account{
+        font-size: small;
+    }
     
 }
 
@@ -212,5 +215,9 @@ hr{
     .options{
         font-size: 10px;
     }
+    .forgot-account{
+        font-size: small;
+    }
+    
 }
 
