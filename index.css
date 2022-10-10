@@ -169,6 +169,7 @@ hr{
     
     .new-account{
         width: 70%;
+        width: 89%;
         background-color: #289e10;
     }
 
@@ -204,7 +205,8 @@ hr{
     }
 
     .new-account{
-        width: 80%;
+        width: 84%;
+        font-size: small;
     }
 
     .options{
