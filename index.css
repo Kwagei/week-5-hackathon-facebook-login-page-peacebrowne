@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;700&display=swap');
 *{
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
 }
 
 main{
@@ -107,7 +107,7 @@ hr{
     background-color: #DDDFE2;
 }
 .new-account{
-    width: 61%;
+    width: 65%;
     margin: 1rem auto;
     background-color: #289e10;
 }
